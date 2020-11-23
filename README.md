@@ -1,7 +1,7 @@
 # live_cam_ocr
 ocr on live camera 
 
-use paddocr on jetson nano 
+use paddleocr on jetson nano 
 
 demo video:
 
